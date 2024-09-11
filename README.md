@@ -1,1 +1,1 @@
-# coding1
+Criamosuma conta no Github e aprendemos algumas funções .
