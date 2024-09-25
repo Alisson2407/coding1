@@ -24,11 +24,5 @@ const valor1=50
 const valor2=50
 const as= valor1+valor2
 console.log("Este é o resultado : " + '' + as)
-
 */
-const nota1 =8;
-const nota2 =6;
-const nota3 =10;
-const media = (nota1 + nota2 + nota3)/3;
 
-console.log(`Sua média é: ${media}`)
