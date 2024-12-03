@@ -1,4 +1,5 @@
-* OS primeiros passos  a serem passados foi a respeito da programação em si o que é ?  e para quê serve? além de sua lógica na qual usamos para formular códigos dos mais simples ao mais complexo;
+* Os primeiros passos  a serem passados, foram a respeito da programação em si o que é ?  e para quê serve? algoritmos e suas representações atravées de fluxogramas o que ilustra a tomada de decisão, além de, da lógica na qual usamos para formular códigos dos mais simples ao mais complexo;
+* Outros pontos que foram explanados foi sobre tipos primitivos como variáveis(let,const,var) e strings..... ;
 
 * Aprendemos alguns comandos que envolviam operações matemática como (*,-,/,+,%) além de como imprimir frases na tela como "Olá mundo";
 
