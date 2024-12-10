@@ -1,4 +1,4 @@
-* Os primeiros passos  a serem passados, foram a respeito da programação em si o que é ?  e para quê serve? algoritmos e suas representações atravées de fluxogramas o que ilustra a tomada de decisão, além de, da lógica na qual usamos para formular códigos dos mais simples ao mais complexo;
+* Os primeiros pontos , foram a respeito da programação em si o que é ?  e para quê serve? algoritmos e suas representações atravées de fluxogramas o que ilustra a tomada de decisão, além de, da lógica na qual usamos para formular códigos dos mais simples ao mais complexo;
   
 * Outros pontos que foram explanados como os  tipos primitivos e  variáveis(let,const,var) e strings..... ;
 
